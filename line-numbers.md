@@ -7,9 +7,8 @@
 #### 7 This is step 6, subclause b
 #### 8
 #### 9 GitHub is awesome
-
 #### 10
-#### 11
+#### 11 Anything
 #### 12
 #### 13
 #### 14
